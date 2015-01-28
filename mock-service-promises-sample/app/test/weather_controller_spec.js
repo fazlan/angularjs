@@ -1,5 +1,5 @@
 'use strict';
-describe('The Mocked User Controller', function () {
+describe('The Mocked Weather Controller', function () {
     var scope;
 
     beforeEach(function () {
