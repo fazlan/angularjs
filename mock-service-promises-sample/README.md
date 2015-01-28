@@ -14,7 +14,7 @@
 	NodeJS installed. You can find out more on http://nodejs.org/
 	Git
 	
-	1. Clone the repository 'angular-mock-promises-sample'
+	1. Clone the repository 'angularjs'
 	
 		$ git clone https://github.com/fazlan/angularjs.git
 	
