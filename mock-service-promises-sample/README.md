@@ -16,11 +16,11 @@
 	
 	1. Clone the repository 'angular-mock-promises-sample'
 	
-		$ mkdir angular-mock-promises-sample	
+		$ git clone https://github.com/fazlan/angularjs.git
 	
-	2. Move into the cloned project.
+	2. Move into the 'angular-mock-promises-sample' project.
 	
-		$ cd angular-mock-promises-sample
+		$ cd angularjs/angular-mock-promises-sample
 		
 	3. Installing the node dependencies
 		$ npm install -g karma-cli  
